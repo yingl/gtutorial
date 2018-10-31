@@ -1,3 +1,3 @@
-Line 001 modify on local
+Line 001 modify onboth sides
 Line 002
 Line 003
